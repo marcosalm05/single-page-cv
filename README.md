@@ -1,1 +1,1 @@
-https://github.com/marcosalm05/single-page-cv.git
+https://roadmap.sh/projects/single-page-cv
